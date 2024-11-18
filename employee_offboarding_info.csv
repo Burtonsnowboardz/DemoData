@@ -1,0 +1,11 @@
+Employee Name,Email Address,Manager,Department,Job Title,Organization,Offboarding Date,Access Revoked,Assets to Collect,Notes
+John Doe,jdoe@company.com,Alice Thompson,IT Security,Security Analyst,TechCorp IT,2024-11-01,Yes,"Laptop, Badge",Pending exit interview
+Jane Smith,jsmith@company.com,Alice Thompson,Network Operations,Network Engineer,TechCorp IT,2024-11-05,Yes,"Laptop, VPN Token",All assets collected
+Michael Johnson,mjohnson@company.com,Bob White,Software Development,Software Engineer,TechCorp IT,2024-11-10,No,Desktop,Access pending revocation
+Emily Brown,ebrown@company.com,Bob White,IT Support,Help Desk Technician,TechCorp IT,2024-11-15,Yes,"Laptop, Headset",Laptop not returned
+Chris Davis,cdavis@company.com,Alice Thompson,Cloud Infrastructure,Cloud Engineer,TechCorp IT,2024-11-18,No,Cloud Access Card,Exit interview completed
+Sarah Miller,smiller@company.com,Charlie Green,IT Security,Incident Response Specialist,TechCorp IT,2024-11-20,Yes,"Laptop, Security Badge",Pending final approval
+David Wilson,dwilson@company.com,Charlie Green,Software Development,DevOps Engineer,TechCorp IT,2024-11-22,No,Server Access Card,Need to revoke cloud access
+Laura Garcia,lgarcia@company.com,Bob White,IT Support,System Administrator,TechCorp IT,2024-11-25,Yes,"Laptop, Phone",All tasks completed
+James Martinez,jmartinez@company.com,Alice Thompson,Network Operations,Network Administrator,TechCorp IT,2024-11-28,Yes,"Desktop, VPN Token",Pending account deactivation
+Linda Hernandez,lhernandez@company.com,Charlie Green,Cloud Infrastructure,Cloud Architect,TechCorp IT,2024-11-30,No,Cloud Access Badge,Laptop and phone returned
